@@ -1,11 +1,14 @@
 package in.weargenius.main;
 
-import in.weargenius.hardware.WaterTemperatureSensor;
+import in.weargenius.restapi.RESTCall;
+
+//import in.weargenius.hardware.WaterTemperatureSensor;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		/*
 		WaterTemperatureSensor sensor = new WaterTemperatureSensor();
 		double temp=sensor.getWaterTemperature();
 		if(temp!=0){
@@ -13,6 +16,10 @@ public class MainClass {
 		}
 		else
 			System.out.println("Sensor not found ");
+	
+	*/
+		RESTCall http = new RESTCall();
+		http.sendDataOverRest(45);
 	}
 
 }
