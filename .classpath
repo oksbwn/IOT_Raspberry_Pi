@@ -2,22 +2,20 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/!IOTWithRaspberry Pi_I/pi4j-1.2-SNAPSHOT/pi4j-1.2-SNAPSHOT/lib/pi4j-core.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTWithRaspberry Pi_I/pi4j-1.2-SNAPSHOT/pi4j-1.2-SNAPSHOT/lib/pi4j-device.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTWithRaspberry Pi_I/pi4j-1.2-SNAPSHOT/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/httpasyncclient-4.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/httpcore-nio-4.4.4.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/json-20160212.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/org.eclipse.paho.client.mqttv3-1.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/pi4j-core.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/pi4j-device.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/pi4j-gpio-extension.jar"/>
-	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/lib/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/httpasyncclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/json-20160212.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/org.eclipse.paho.client.mqttv3-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oksbwn/Downloads/jar_files/org.eclipse.paho.client.mqttv3-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

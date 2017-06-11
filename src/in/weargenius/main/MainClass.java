@@ -1,12 +1,15 @@
 package in.weargenius.main;
 
+import org.eclipse.paho.client.mqttv3.MqttException;
+
+import in.weargenius.mqtt.SendDataUsingMQTT;
 import in.weargenius.restapi.RESTCall;
 
 //import in.weargenius.hardware.WaterTemperatureSensor;
 
 public class MainClass {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws MqttException {
 		// TODO Auto-generated method stub
 		/*
 		WaterTemperatureSensor sensor = new WaterTemperatureSensor();
@@ -17,9 +20,12 @@ public class MainClass {
 		else
 			System.out.println("Sensor not found ");
 	
-	*/
+	
 		RESTCall http = new RESTCall();
 		http.sendDataOverRest(45);
+		*/
+		SendDataUsingMQTT mqtt= new SendDataUsingMQTT();
+		mqtt.publish("field1=65");
 	}
 
 }
