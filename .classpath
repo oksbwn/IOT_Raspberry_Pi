@@ -16,6 +16,5 @@
 	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/pi4j-device.jar"/>
 	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/pi4j-gpio-extension.jar"/>
 	<classpathentry kind="lib" path="D:/!IOTPI_App_Code/IOTAPP_Pi/lib/unirest-java-1.4.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/oksbwn/Downloads/jar_files/org.eclipse.paho.client.mqttv3-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
